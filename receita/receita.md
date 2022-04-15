@@ -1,4 +1,4 @@
-## STROGONOFF DE FRANGO
+## STROGONOFF DE FRANGO :chicken:
 
 * 3 peitos de frango cortados em cubos
 * 1 dente de alho picado
